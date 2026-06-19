@@ -62,8 +62,7 @@ Para resolverlo, el dataset final se consolidó desde **tres aristas analíticas
 ## 💻 Código Fuente
 El desarrollo completo de la vista analítica con el script optimizado se encuentra documentado y listo para su ejecución en la sección de archivos del repositorio:
 
-* 💾 **[Ver Trabajo Completo] (./Tarjeta Credito X.ipynb)**
-
+* 💾 **[Ver Trabajo Completo](./TarjetaCreditoX.ipynb)**
 ---
 ## 👤 Autor
 * **Adrián Poet** - *Data Analyst & Business Intelligence Specialist*
