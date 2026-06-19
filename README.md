@@ -59,7 +59,12 @@ Para resolverlo, el dataset final se consolidó desde **tres aristas analíticas
 
 ---
 
-## 📂 Estructura del Repositorio
-* 📄 **[AUDITORÍA TRANSACCIONAL Y COMPORTAMIENTO EN TARJETAS DE CRÉDITO.pdf](AUDITOR%C3%8DA%20TRANSACCIONAL%20Y%20COMPORTAMIENTO%20EN%20TARJETAS%20DE%20CR%C3%89DITO.pdf)**: Reporte y diagnóstico técnico en formato PDF.
-* 💻 **[auditoria_transaccional.ipynb](auditoria_transaccional.ipynb)**: Jupyter Notebook con el proceso completo de ETL, limpieza y análisis dimensional en Python.
-* 📝 **README.md**: Resumen ejecutivo y guía del proyecto (este archivo).
+## 💻 Código Fuente
+El desarrollo completo de la vista analítica con el script optimizado se encuentra documentado y listo para su ejecución en la sección de archivos del repositorio:
+
+* 💾 **[Ver Trabajo Completo](./Tarjeta Credito X.ipynb)**
+
+---
+## 👤 Autor
+* **Adrián Poet** - *Data Analyst & Business Intelligence Specialist*
+* [LinkedIn](https://www.linkedin.com/in/adrian-poet)
